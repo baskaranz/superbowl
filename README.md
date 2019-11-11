@@ -32,4 +32,4 @@ Don't worry about validating the number of rolls in a frame
 
 Run `gradle clean test` to run the unit tests.
 
-The tests should cover all possible cases/scenarios
+The tests should cover all possible cases/scenarios defined in problem statement.
